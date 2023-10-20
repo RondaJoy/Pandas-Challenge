@@ -1,12 +1,22 @@
-# Pandas-Challenge
-Repo for Module 4 (Pandas) Homework Assignment
+**UCB Data Analysis Module 4**
+# Pandas Challenge: PyCity Schools
 
-The purpse of the materials contained within this repository is to provide the school board with an insightful, data-driven report to be used for decision-making purposes.  This report includes an aggregate of standardized test scores, current spend, number of students enrolled and type of school (among other demographics).  
+---------------
+#### Purpose:
+Analyze district-wide standardized test results for presentation to the school board. Generate an insightful, data-driven report to be used for decision-making purposes.  Report includes aggregated test scores, current spend, number of students enrolled and type of school (among other demographics).  
 
-Contents include:
-1 x All-inclusive Python script (with written report)
-6 x .png images (please refer to images when reading data analysis report)
-2 x .csv file
+--------------
+#### Contents of Repository:
+1 x Jupyter notebook (PyCitySchools_data analysis.ipynb)  
+1 x .pdf text document, Report (Standardized Test Scores_Trends and Takeaways.pdf)  
+6 x .png images (please refer to images when reading data analysis report)  
+2 x .csv source data files  
 1 x README file
 
-No citations this week.  I did LOTS of research and reading online but did not directly use any shared code.
+-------------------
+#### Contributions:  
+N/A
+
+------------------
+#### License:
+[MIT](https://choosealicense.com/licenses/mit/)
